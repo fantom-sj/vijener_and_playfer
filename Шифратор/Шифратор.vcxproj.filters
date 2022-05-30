@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Файлы исходного кода">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Заголовочные файлы">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Заголовочные файлы\Элементы интерфейса">
+      <UniqueIdentifier>{b8fdd313-fb49-4c08-b064-2bd646dc7e8a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы исходного кода\Элементы интерфейса">
+      <UniqueIdentifier>{68758c7e-7a92-47dd-91e6-c1343698aada}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Шифратор.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="Button_shifr.h">
+      <Filter>Заголовочные файлы\Элементы интерфейса</Filter>
+    </ClInclude>
+    <ClInclude Include="Button_unshifr.h">
+      <Filter>Заголовочные файлы\Элементы интерфейса</Filter>
+    </ClInclude>
+    <ClInclude Include="ComboBox.h">
+      <Filter>Заголовочные файлы\Элементы интерфейса</Filter>
+    </ClInclude>
+    <ClInclude Include="EditText.h">
+      <Filter>Заголовочные файлы\Элементы интерфейса</Filter>
+    </ClInclude>
+    <ClInclude Include="ChildView.h">
+      <Filter>Заголовочные файлы\Элементы интерфейса</Filter>
+    </ClInclude>
+    <ClInclude Include="Button_criptoAnaliz.h">
+      <Filter>Заголовочные файлы\Элементы интерфейса</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Шифратор.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="Button_shifr.cpp">
+      <Filter>Файлы исходного кода\Элементы интерфейса</Filter>
+    </ClCompile>
+    <ClCompile Include="Button_unshifr.cpp">
+      <Filter>Файлы исходного кода\Элементы интерфейса</Filter>
+    </ClCompile>
+    <ClCompile Include="ComboBox.cpp">
+      <Filter>Файлы исходного кода\Элементы интерфейса</Filter>
+    </ClCompile>
+    <ClCompile Include="Dop_text_function.cpp">
+      <Filter>Файлы исходного кода\Элементы интерфейса</Filter>
+    </ClCompile>
+    <ClCompile Include="EditText.cpp">
+      <Filter>Файлы исходного кода\Элементы интерфейса</Filter>
+    </ClCompile>
+    <ClCompile Include="Шифрующие_функции.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="Button_criptoAnaliz.cpp">
+      <Filter>Файлы исходного кода\Элементы интерфейса</Filter>
+    </ClCompile>
+    <ClCompile Include="ChildView.cpp">
+      <Filter>Файлы исходного кода\Элементы интерфейса</Filter>
+    </ClCompile>
+    <ClCompile Include="CriptoAnaliz_shifr_vigenera.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Шифратор.rc">
+      <Filter>Файлы ресурсов</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\My.rc2">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="ClassDiagram.cd">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="res\ribbon1.mfcribbon-ms">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\Шифратор.ico">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="Image.png">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="res\icon.ico">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="res\icon1.ico">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,189 @@
+﻿"Шифратор.exe" (Win32). Загружено "D:\Users\Admin\Desktop\Учебная практика\Шифратор\x64\Debug\Шифратор.exe". Символы загружены.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\user32.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\win32u.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\mfc140ud.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\gdi32.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\advapi32.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\gdi32full.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\msvcrt.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\msvcp_win.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\ucrtbase.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\sechost.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\rpcrt4.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\oleaut32.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\combase.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\ole32.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\shlwapi.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\bcryptprimitives.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\imm32.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.15063.608_none_56f0266b425534e9\GdiPlus.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.15063.483_none_26002d27e7c744a2\comctl32.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\uxtheme.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\PGPmapih.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\kernel.appcore.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\msctf.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\dwmapi.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\TextInputFramework.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\CoreMessaging.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\CoreUIComponents.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\SHCore.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\ntmarta.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\WinTypes.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\usermgrcli.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\WinTypes.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Выгружено "C:\Windows\System32\WinTypes.dll"
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\msftedit.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\clbcatq.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\Windows.Globalization.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\BCP47Langs.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\globinputhost.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\DataExchange.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\d3d11.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\dcomp.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\dxgi.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\twinapi.appcore.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\bcrypt.dll". Невозможно найти или открыть PDB-файл.
+f:\dd\vctools\vc7libs\ship\atlmfc\src\mfc\viewcore.cpp(103) : AppMsg - Warning: Creating a pane with no CDocument.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\shell32.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\cfgmgr32.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\windows.storage.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\powrprof.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\profapi.dll". Невозможно найти или открыть PDB-файл.
+f:\dd\vctools\vc7libs\ship\atlmfc\src\mfc\viewcore.cpp(103) : AppMsg - Warning: Creating a pane with no CDocument.
+f:\dd\vctools\vc7libs\ship\atlmfc\src\mfc\viewcore.cpp(103) : AppMsg - Warning: Creating a pane with no CDocument.
+Поток 0x3174 завершился с кодом 0 (0x0).
+Поток 0x3b10 завершился с кодом 0 (0x0).
+Поток 0x24e4 завершился с кодом 0 (0x0).
+Поток 0x4f2c завершился с кодом 0 (0x0).
+Поток 0x5b54 завершился с кодом 0 (0x0).
+Поток 0x6070 завершился с кодом 0 (0x0).
+"Шифратор.exe" (Win32). Загружено "C:\Windows\System32\edputil.dll". Невозможно найти или открыть PDB-файл.
+"Шифратор.exe" (Win32). Выгружено "C:\Windows\System32\dxgi.dll"
+"Шифратор.exe" (Win32). Выгружено "C:\Windows\System32\d3d11.dll"
+"Шифратор.exe" (Win32). Выгружено "C:\Windows\System32\dcomp.dll"
+"Шифратор.exe" (Win32). Выгружено "C:\Windows\System32\twinapi.appcore.dll"
+"Шифратор.exe" (Win32). Выгружено "C:\Windows\System32\DataExchange.dll"
+"Шифратор.exe" (Win32). Выгружено "C:\Windows\System32\BCP47Langs.dll"
+"Шифратор.exe" (Win32). Выгружено "C:\Windows\System32\globinputhost.dll"
+"Шифратор.exe" (Win32). Выгружено "C:\Windows\System32\Windows.Globalization.dll"
+Поток 0x2f44 завершился с кодом 0 (0x0).
+Поток 0x22a0 завершился с кодом 0 (0x0).
+Поток 0x3aa0 завершился с кодом 0 (0x0).
+Поток 0x6108 завершился с кодом 0 (0x0).
+Поток 0x5cd4 завершился с кодом 0 (0x0).
+Поток 0x6050 завершился с кодом 0 (0x0).
+Detected memory leaks!
+Dumping objects ->
+{42395} normal block at 0x00000225A459A290, 26 bytes long.
+ Data: <  @ 8 2 5 B     > 1F 04 40 04 38 04 32 04 35 04 42 04 20 00 1C 04 
+{42391} normal block at 0x00000225A4599F30, 22 bytes long.
+ Data: <  @ 8 2 5 B     > 1F 04 40 04 38 04 32 04 35 04 42 04 20 00 1C 04 
+{42390} normal block at 0x00000225A459AC50, 22 bytes long.
+ Data: <  @ 8 2 5 B     > 1F 04 40 04 38 04 32 04 35 04 42 04 20 00 1C 04 
+{42389} normal block at 0x00000225A459AA10, 22 bytes long.
+ Data: <+ L D = @ N   ( > 2B 04 4C 04 44 04 3D 04 40 04 4E 04 20 00 28 04 
+{42387} normal block at 0x00000225A4558770, 4 bytes long.
+ Data: <1 2 > 31 00 32 00 
+{42384} normal block at 0x00000225A459A0B0, 22 bytes long.
+ Data: <+ L D = @ N   ( > 2B 04 4C 04 44 04 3D 04 40 04 4E 04 20 00 28 04 
+{38019} normal block at 0x00000225A459A590, 26 bytes long.
+ Data: <+ L D = @ N   ( > 2B 04 4C 04 44 04 3D 04 40 04 4E 04 20 00 28 04 
+{38015} normal block at 0x00000225A459ABF0, 22 bytes long.
+ Data: <+ L D = @ N   ( > 2B 04 4C 04 44 04 3D 04 40 04 4E 04 20 00 28 04 
+{38014} normal block at 0x00000225A459ACB0, 22 bytes long.
+ Data: <+ L D = @ N   ( > 2B 04 4C 04 44 04 3D 04 40 04 4E 04 20 00 28 04 
+{38013} normal block at 0x00000225A457C680, 22 bytes long.
+ Data: <  @ 8 2 5 B     > 1F 04 40 04 38 04 32 04 35 04 42 04 20 00 1C 04 
+{38011} normal block at 0x00000225A4558170, 4 bytes long.
+ Data: <1 2 > 31 00 32 00 
+{38008} normal block at 0x00000225A457C3E0, 22 bytes long.
+ Data: <  @ 8 2 5 B     > 1F 04 40 04 38 04 32 04 35 04 42 04 20 00 1C 04 
+{28470} normal block at 0x00000225A457C980, 30 bytes long.
+ Data: <  @ 8 2 5 B     > 1F 04 40 04 38 04 32 04 35 04 42 04 20 00 1C 04 
+{28466} normal block at 0x00000225A4562300, 44 bytes long.
+ Data: <                > 10 00 00 00 11 00 00 00 09 00 00 00 02 00 00 00 
+{28465} normal block at 0x00000225A4562530, 44 bytes long.
+ Data: <                > 0D 00 00 00 0D 00 00 00 0D 00 00 00 0D 00 00 00 
+{28464} normal block at 0x00000225A4563020, 44 bytes long.
+ Data: <                > 1E 00 00 00 1F 00 00 00 17 00 00 00 10 00 00 00 
+{28463} normal block at 0x00000225A4557380, 22 bytes long.
+ Data: <  @ 8 2 5 B     > 1F 04 40 04 38 04 32 04 35 04 42 04 20 00 1C 04 
+{28462} normal block at 0x00000225A4557320, 22 bytes long.
+ Data: <                > 1C 04 1C 04 1C 04 1C 04 1C 04 1C 04 1C 04 1C 04 
+{28461} normal block at 0x00000225A4558830, 2 bytes long.
+ Data: <  > 1C 04 
+{28460} normal block at 0x00000225A4556F60, 22 bytes long.
+ Data: <- N F ? B 0   * > 2D 04 4E 04 46 04 3F 04 42 04 30 04 20 00 2A 04 
+{28459} normal block at 0x00000225A45574A0, 22 bytes long.
+ Data: <  @ 8 2 5 B     > 1F 04 40 04 38 04 32 04 35 04 42 04 20 00 1C 04 
+{28457} normal block at 0x00000225A4557BF0, 2 bytes long.
+ Data: <  > 1C 04 
+{28454} normal block at 0x00000225A45569C0, 22 bytes long.
+ Data: <- N F ? B 0   * > 2D 04 4E 04 46 04 3F 04 42 04 30 04 20 00 2A 04 
+{16768} normal block at 0x00000225A457CC20, 28 bytes long.
+ Data: <- N F ? B 0   * > 2D 04 4E 04 46 04 3F 04 42 04 30 04 20 00 2A 04 
+{16764} normal block at 0x00000225A4562760, 44 bytes long.
+ Data: <                > 1E 00 00 00 1F 00 00 00 17 00 00 00 10 00 00 00 
+{16763} normal block at 0x00000225A4562290, 44 bytes long.
+ Data: <                > 0D 00 00 00 0D 00 00 00 0D 00 00 00 0D 00 00 00 
+{16762} normal block at 0x00000225A4562C30, 44 bytes long.
+ Data: <                > 10 00 00 00 11 00 00 00 09 00 00 00 02 00 00 00 
+{16761} normal block at 0x00000225A457C140, 22 bytes long.
+ Data: <- N F ? B 0   * > 2D 04 4E 04 46 04 3F 04 42 04 30 04 20 00 2A 04 
+{16760} normal block at 0x00000225A457CBC0, 22 bytes long.
+ Data: <                > 1C 04 1C 04 1C 04 1C 04 1C 04 1C 04 1C 04 1C 04 
+{16759} normal block at 0x00000225A4558870, 2 bytes long.
+ Data: <  > 1C 04 
+{16758} normal block at 0x00000225A457C200, 22 bytes long.
+ Data: <  @ 8 2 5 B     > 1F 04 40 04 38 04 32 04 35 04 42 04 20 00 1C 04 
+{16757} normal block at 0x00000225A457C020, 22 bytes long.
+ Data: <- N F ? B 0   * > 2D 04 4E 04 46 04 3F 04 42 04 30 04 20 00 2A 04 
+{16755} normal block at 0x00000225A4558370, 2 bytes long.
+ Data: <  > 1C 04 
+{16752} normal block at 0x00000225A457CB60, 22 bytes long.
+ Data: <  @ 8 2 5 B     > 1F 04 40 04 38 04 32 04 35 04 42 04 20 00 1C 04 
+{13504} normal block at 0x00000225A457C560, 28 bytes long.
+ Data: <  @ 8 2 5 B     > 1F 04 40 04 38 04 32 04 35 04 42 04 20 00 1C 04 
+{13500} normal block at 0x00000225A4562990, 44 bytes long.
+ Data: <                > 10 00 00 00 11 00 00 00 09 00 00 00 02 00 00 00 
+{13499} normal block at 0x00000225A4563090, 44 bytes long.
+ Data: <                > 20 00 00 00 20 00 00 00 20 00 00 00 20 00 00 00 
+{13498} normal block at 0x00000225A4562B50, 44 bytes long.
+ Data: <                > 10 00 00 00 11 00 00 00 09 00 00 00 02 00 00 00 
+{13497} normal block at 0x00000225A457C740, 22 bytes long.
+ Data: <  @ 8 2 5 B     > 1F 04 40 04 38 04 32 04 35 04 42 04 20 00 1C 04 
+{13496} normal block at 0x00000225A457C920, 22 bytes long.
+ Data: </ / / / / / / / > 2F 04 2F 04 2F 04 2F 04 2F 04 2F 04 2F 04 2F 04 
+{13495} normal block at 0x00000225A4558730, 2 bytes long.
+ Data: </ > 2F 04 
+{13494} normal block at 0x00000225A457C1A0, 22 bytes long.
+ Data: <  @ 8 2 5 B     > 1F 04 40 04 38 04 32 04 35 04 42 04 20 00 1C 04 
+{13493} normal block at 0x00000225A457CD40, 22 bytes long.
+ Data: <  @ 8 2 5 B     > 1F 04 40 04 38 04 32 04 35 04 42 04 20 00 1C 04 
+{13491} normal block at 0x00000225A4558A30, 2 bytes long.
+ Data: </ > 2F 04 
+{13488} normal block at 0x00000225A457C0E0, 22 bytes long.
+ Data: <  @ 8 2 5 B     > 1F 04 40 04 38 04 32 04 35 04 42 04 20 00 1C 04 
+{11190} normal block at 0x00000225A4558AF0, 0 bytes long.
+ Data: <> Jчіь
+{11187} normal block at 0x00000225A457C8C0, 22 bytes long.
+ Data: <  @ 8 2 5 B     > 1F 04 40 04 38 04 32 04 35 04 42 04 20 00 1C 04 
+{185} client block at 0x00000225A45105D0, subtype c0, 232 bytes long.
+f:\dd\vctools\vc7libs\ship\atlmfc\src\mfc\dumpcont.cpp(23) : atlTraceGeneral - a CStatic object at $00000225A45105D0, 232 bytes long
+{184} client block at 0x00000225A45112E0, subtype c0, 240 bytes long.
+f:\dd\vctools\vc7libs\ship\atlmfc\src\mfc\dumpcont.cpp(23) : atlTraceGeneral - a ComboBox object at $00000225A45112E0, 240 bytes long
+{183} client block at 0x00000225A45104A0, subtype c0, 232 bytes long.
+f:\dd\vctools\vc7libs\ship\atlmfc\src\mfc\dumpcont.cpp(23) : atlTraceGeneral - a ClassButton_shifr object at $00000225A45104A0, 232 bytes long
+{182} client block at 0x00000225A4510F50, subtype c0, 232 bytes long.
+f:\dd\vctools\vc7libs\ship\atlmfc\src\mfc\dumpcont.cpp(23) : atlTraceGeneral - a ClassButton_unshifr object at $00000225A4510F50, 232 bytes long
+{177} client block at 0x00000225A4511A00, subtype c0, 232 bytes long.
+f:\dd\vctools\vc7libs\ship\atlmfc\src\mfc\dumpcont.cpp(23) : atlTraceGeneral - a CStatic object at $00000225A4511A00, 232 bytes long
+{176} client block at 0x00000225A4510370, subtype c0, 232 bytes long.
+f:\dd\vctools\vc7libs\ship\atlmfc\src\mfc\dumpcont.cpp(23) : atlTraceGeneral - a CStatic object at $00000225A4510370, 232 bytes long
+Object dump complete.
+Программа "[15516] Шифратор.exe" завершилась с кодом 0 (0x0).

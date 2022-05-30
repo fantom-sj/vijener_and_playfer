@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CMainFrame" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAQAAAACAQAiAAAgCAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainFrm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChildView" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACgAIAAAAEADQEAwAAAIAgF8KQCAAAAAAQAAkiCAAA=</HashCode>
+      <FileName>ChildView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="CDialogEx">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="0.4" Y="0.232" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Шифратор.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassButton_shifr" Collapsed="true">
+    <Position X="6.5" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAABAAAAA=</HashCode>
+      <FileName>Button_shifr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassButton_unshifr" Collapsed="true">
+    <Position X="6.5" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Button_unshifr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComboBox" Collapsed="true">
+    <Position X="6.5" Y="6.75" Width="1.5" />
+    <InheritanceLine Type="CComboBox">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="0.063" Y="0.233" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAQAAACAAAEAAAAABEACAAQABCAABgAAA=</HashCode>
+      <FileName>ComboBox.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWinApp" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>57Zg4NJZMRYwEDOJuKSX1EtlESlJxcwkSSNipVAHtHc=</HashCode>
+      <FileName>d:\Visual Studio 14.0\VC\atlmfc\include\afxwin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWinThread" Collapsed="true">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkAAQwAICAIBhgQCAABkAABAAEAgQYAgAAAgAgJCAM=</HashCode>
+      <FileName>d:\Visual Studio 14.0\VC\atlmfc\include\afxwin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCmdTarget" Collapsed="true">
+    <Position X="0.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQBRAgFAIUREFAwCNAoxmIAxQRSASAACwAAQDABAMA=</HashCode>
+      <FileName>d:\Visual Studio 14.0\VC\atlmfc\include\afxwin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CObject" Collapsed="true">
+    <Position X="0.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAQAQAAAAACAAAgQAAADAAAAAAEUAgAEAAAAA=</HashCode>
+      <FileName>d:\Visual Studio 14.0\VC\atlmfc\include\afx.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFrameWnd" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>k0yJUpw3ZFmZ0rrIzxMZ3AwUwfcQUHEOZo56pYUD3rA=</HashCode>
+      <FileName>d:\Visual Studio 14.0\VC\atlmfc\include\afxwin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWnd" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>v977//bff7//b//96f/v/f/97/+e33f39uv7/d///78=</HashCode>
+      <FileName>d:\Visual Studio 14.0\VC\atlmfc\include\afxwin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDialogEx" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AABBAAACAAEAAAiAACCCBEBQAAAAAAEAIACCgQAAAAI=</HashCode>
+      <FileName>d:\Visual Studio 14.0\VC\atlmfc\include\afxdialogex.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDialog" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAGAyCkAQMCYAQgEDAIAgBSFACBDAUAgBAoQAAFABiA=</HashCode>
+      <FileName>d:\Visual Studio 14.0\VC\atlmfc\include\afxwin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CButton" Collapsed="true">
+    <Position X="4.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gRAADUCAEAAAIQAgAFAADgBgkIAAHUBACAEQgAAAABA=</HashCode>
+      <FileName>d:\Visual Studio 14.0\VC\atlmfc\include\afxwin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CComboBox" Collapsed="true">
+    <Position X="2.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARABAQAAEimBAngoUgADUAQAhQFAESIhBABMQBAhBE=</HashCode>
+      <FileName>d:\Visual Studio 14.0\VC\atlmfc\include\afxwin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CШифраторApp" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEAACChCASAAgAAABAAQAAQBgAAAAAUIwCABABABAAA=</HashCode>
+      <FileName>Шифратор.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEditText" Collapsed="true">
+    <Position X="4.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EditText.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCommonDialog" Collapsed="true">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <InheritanceLine Type="CDialog" FixedFromPoint="true">
+      <Path>
+        <Point X="6.25" Y="3.688" />
+        <Point X="6.373" Y="3.688" />
+        <Point X="6.373" Y="2.941" />
+        <Point X="6.75" Y="2.941" />
+      </Path>
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="-0.012" Y="-0.189" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AADAACAABAAAAAAAAAAAAAABAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>d:\Visual Studio 14.0\VC\atlmfc\include\afxdlgs.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEdit" Collapsed="true">
+    <Position X="2.5" Y="7" Width="1.5" />
+    <InheritanceLine Type="CWnd" FixedFromPoint="true">
+      <Path>
+        <Point X="3" Y="3.688" />
+        <Point X="2.377" Y="3.688" />
+        <Point X="2.377" Y="7.346" />
+        <Point X="2.5" Y="7.346" />
+      </Path>
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="-0.326" Y="0.386" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>DIWQLEIChFBAJQQAAIAkAAAUFgIIAEQIACCACAJgAFA=</HashCode>
+      <FileName>d:\Visual Studio 14.0\VC\atlmfc\include\afxwin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="TEXT" Collapsed="true">
+    <Position X="0.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAACAAAA=</HashCode>
+      <FileName>EditText.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
